@@ -1,27 +1,186 @@
-# 💫 About Me:
-🔭 I’m currently working on: SOC Labs, Networking Projects & Cybersecurity Practice<br>🤝 I’m looking to collaborate on: Cybersecurity & Networking Projects<br>🆘 I’m looking for help with: Advanced SOC concepts & Real-world Incident Response<br>🌱 I’m currently learning: Cloud Security, SIEM tools (Splunk/Wazuh), and Ethical Hacking Basics<br>💬 Ask me about: Networking, Cybersecurity Basics, and Beginner SOC journey<br>⚡ Fun fact: I enjoy breaking down complex security concepts into simple explanations
+<div align="center">
 
+# 👋 Hi, I'm Muhammad Talha
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Talha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtalha27709@gmail.com) 
+### 🛡️ Detection Engineer | SOC Analyst | Threat Hunter | Purple Team
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mtalha27709-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mtalha27709-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mtalha27709-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<img src="https://img.shields.io/badge/Detection-Engineering-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOC-Operations-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat-Hunting-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Purple-Team-purple?style=for-the-badge"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mtalha27709-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=900&lines=Detection+Engineering;Threat+Hunting;SOC+Operations;Purple+Team;Incident+Response;MITRE+ATT%26CK;Wazuh+SIEM;Sysmon;Active+Directory"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mtalha27709-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mtalha27709-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Professional Summary
+
+Cybersecurity professional with **2+ years of hands-on experience** gained through cybersecurity education, enterprise security labs, internships, and real-world projects.
+
+Specialized in:
+
+- 🛡️ Detection Engineering
+- 📊 SOC Operations
+- 🔍 Threat Hunting
+- 🚨 Incident Response
+- 🟣 Purple Team Operations
+- 📑 Detection Rule Development
+- 🧩 MITRE ATT&CK Mapping
+
+---
+
+# 📈 Highlights
+
+🏢 **6+ Cybersecurity Internships**
+
+📂 **25+ Hands-on Security Projects**
+
+🧪 **Enterprise SOC + Detection Engineering Labs**
+
+📑 **10+ Professional Security Reports**
+
+📜 **10+ Cybersecurity Certifications**
+
+🖥️ **Built Enterprise Wazuh & Splunk Labs**
+
+👨‍💻 **50+ Students Mentored**
+
+---
+
+# 🛡️ Core Expertise
+
+🛡️ Detection Engineering
+
+📊 SOC Operations
+
+🔍 Threat Hunting
+
+🚨 Incident Investigation
+
+🧩 MITRE ATT&CK
+
+📑 IOC Extraction
+
+📡 Sysmon Analysis
+
+📈 Windows Event Logs
+
+⚡ Wazuh SIEM
+
+📊 Splunk SIEM
+
+🔵 Blue Team Operations
+
+🟣 Purple Team Operations
+
+💻 Active Directory Security
+
+---
+
+# 📂 Featured Projects
+
+⭐ Enterprise SOC + Purple Team Lab
+
+⭐ Detection Engineering Portfolio
+
+⭐ Threat Hunting Project
+
+⭐ Active Directory Attack & Detection Lab
+
+⭐ User Management System Security Hardening
+
+⭐ Networking & Infrastructure Labs
+
+---
+
+# 🛠️ Security Stack
+
+### SIEM
+
+Wazuh • Splunk • Elasticsearch • Kibana
+
+### Detection
+
+Sysmon • Sigma • YARA • MITRE ATT&CK
+
+### Offensive
+
+Atomic Red Team • Metasploit • BloodHound • Burp Suite • Nmap
+
+### Programming
+
+Python • PowerShell • Bash
+
+### Platforms
+
+Windows • Ubuntu • Kali Linux • VMware
+
+---
+
+# 💼 Internships
+
+🛡️ Blue Team Intern
+
+🛡️ Security Engineer Intern
+
+🛡️ Cyber Threat Intelligence Intern
+
+🛡️ Security Analyst Intern
+
+🛡️ Splunk SIEM Intern
+
+🛡️ Security Engineer Intern
+
+---
+
+# 📜 Certifications
+
+✔ SOC Analyst Level 1
+
+✔ Junior Cybersecurity Analyst
+
+✔ Cyber Threat Management
+
+✔ Endpoint Security
+
+✔ Network Defense
+
+✔ Ethical Hacking
+
+✔ Python for Pentesting
+
+✔ Splunk Introduction
+
+✔ ISO 27001
+
+✔ AI Risks in Cyber Security
+
+---
+
+# 📄 Resume
+
+📌 SOC Analyst Resume
+
+📌 Detection Engineer Resume
+
+---
+
+# 🌐 Connect
+
+📧 mtalha27709@gmail.com
+
+💼 LinkedIn
+
+🐙 GitHub
+
+---
+
+<div align="center">
+
+## ⭐ Building Enterprise Detection Engineering & Purple Team Projects
+
+</div>
