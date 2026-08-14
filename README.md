@@ -1,10 +1,10 @@
 <div align="center">
-# 👋 Hi, I'm Muhammad Talha
  
+### 👋 Hi, I'm Muhammad Talha
+
 ### SOC Analyst | Detection Engineering & Threat Hunting Enthusiast | Wazuh & Splunk | MITRE ATT&CK
  
 </div>
----
  
 ## 🚀 Who Am I?
  
